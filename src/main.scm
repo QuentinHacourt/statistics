@@ -1,4 +1,4 @@
-(load "util.scm")
+(load "src/util.scm")
 
 (define (mean lst)
   (/ (sum lst) (length lst)))
